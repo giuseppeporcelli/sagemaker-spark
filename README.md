@@ -66,23 +66,23 @@ connecting it to SageMaker Studio.
 
 1. In the Studio Console, click on the "SageMaker Resources" on the left side menu.
 
-    <img src="images/cluster_1.png" alt="Studio console 2" width="700px" />
+    <img src="images/cluster_1.png" alt="Studio Cluster" width="700px" />
 
 2. Search for "Cluster" and click on Create cluster.
 
-    <img src="images/cluster_2.png" alt="Studio console 2" width="700px" />
+    <img src="images/cluster_2.png" alt="Studio Create Cluster" width="700px" />
 
 3. Select the template "SageMaker Studio Domain No Auth EMR"
 
-    <img src="images/cluster_3.png" alt="Studio console 2" width="700px" />
+    <img src="images/cluster_3.png" alt="Service Catalog Template" width="700px" />
 
 4. Fill the necessary information and edit the cluster specification, and click on "Create cluster"
 
-    <img src="images/cluster_4.png" alt="Studio console 2" width="700px" />
+    <img src="images/cluster_4.png" alt="Service Catalog Create" width="700px" />
 
 5. The creation of the EMR Cluster will take ~10 minutes. You can monitor the status of the cluster in the "View Cluster" section.
 
-    <img src="images/cluster_5.png" alt="Studio console 2" width="700px" />
+    <img src="images/cluster_5.png" alt="View Cluster" width="700px" />
 
 ## Clone the repository
 
@@ -125,7 +125,7 @@ connecting it to SageMaker Studio.
 
     <img src="images/studio_cluster_select.png" alt="Connect Cluster" width="700px" />
     
-    <img src="images/studio_cluster_select_2.png" alt="Select Cluster" width="500px" />
+    <img src="images/studio_cluster_select_2.png" alt="Select Cluster ER" width="500px" />
 
 7. Select "No credential" and click on "Connect"
 
